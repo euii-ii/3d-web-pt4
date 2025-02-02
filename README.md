@@ -18,7 +18,7 @@ This project demonstrates how to create an interactive 3D website using HTML, CS
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/euii-ii/3d-web-pt4.git
    ```
 2. Navigate to the project folder:
    ```sh

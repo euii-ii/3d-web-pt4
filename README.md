@@ -59,4 +59,3 @@ This project demonstrates how to create an interactive 3D website using HTML, CS
 
 ## License
 This project is licensed under the MIT License.
-
